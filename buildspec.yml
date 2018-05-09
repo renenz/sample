@@ -20,3 +20,5 @@ phases:
 artifacts:
   files:
     - HelloWorld.js
+    - appspec.yml
+    - scripts/install_dependencies.sh
